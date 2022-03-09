@@ -2,6 +2,9 @@
 ## LFp2mAuatA68cymu
 
 
+
+https://github.com/abebual/ValueInvestor-Predicting-TimeSeries-Data/blob/main/ComparingModels.PNG
+
 Background:
 
 
@@ -27,3 +30,4 @@ Success Metrics:
 
 
 Evaluate on the basis of capital returns. Use Bollinger Bands to measure your systems effectiveness.
+
