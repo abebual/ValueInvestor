@@ -3,7 +3,7 @@
 
 
 
-https://github.com/abebual/ValueInvestor-Predicting-TimeSeries-Data/blob/main/ComparingModels.PNG
+![COMPARING MODELS](https://github.com/abebual/ValueInvestor-Predicting-TimeSeries-Data/blob/main/ComparingModels.PNG)
 
 Background:
 
