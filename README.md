@@ -1,4 +1,5 @@
-# LFp2mAuatA68cymu
+# Value Investor
+## LFp2mAuatA68cymu
 
 
 Background:
